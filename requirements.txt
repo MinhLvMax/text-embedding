@@ -1,0 +1,8 @@
+# Gói tùy chọn hỗ trợ mở rộng
+python-dotenv>=1.0.0
+qdrant-client>=1.10.0
+# Tùy chọn nếu muốn dùng SDK chính thức hoặc local model
+# google-genai>=0.1.1
+# sentence-transformers>=3.0.0
+# fastapi>=0.110.0
+# uvicorn>=0.28.0
